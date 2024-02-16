@@ -8,4 +8,7 @@
 - Java
 - Jenkins
 - Maven
+- Powershell
 - Python
+- SQL
+- Web
